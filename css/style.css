@@ -1,0 +1,104 @@
+body {
+	background:url(img/ащт.jpg);
+	background-color: ;
+	
+}
+
+h1 {
+  color: red;
+  margin-left: 20px;
+  font-size: 30px;
+}
+
+h2 {
+  color: navy;
+  font-size: 20px;
+}
+h3 {
+  color: green;
+  font-size: 20px;
+}
+
+table {
+	border: 1px solid black;
+	background:url(img/abc.jpg);
+	background-color: white;
+	background-size: 100% 100%;
+	border-collapse: collapse;
+	text-align: center;
+	font-family: 'Luminari', Fantasy;
+	font-size: 2em;
+}
+
+table th {
+	border: 1px solid black;
+	padding: 5px;	
+}
+table td {
+	border: 1px solid black;
+	padding: 5px;	
+}
+img.mainpic {
+	display: block;
+	height: 95%;
+	width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+	font-size: 10px;
+	color: grey;
+}
+.tonka {
+	font-size: 20px;
+	color:black;
+	font-family: 'Luminari', Fantasy;	
+}
+#large {
+	font-size: 50px;
+}
+p,h1 {
+color: cyan;
+font-size: 25px;
+margin-left: 40px;
+}
+
+a[href] {
+	color: rgb(250, 100, 100);
+	font-size: 25px;
+	margin-left:14px;
+}
+input[type="text"], inpur[type="password"] {
+  color: purple;
+  width: 400px;
+
+}
+input[type="button"] {
+  margin-left:20px;
+}
+
+input[type="range"] {
+  display: inline-block;
+  width: 15%;
+  height: 15px;
+  padding: 0;
+  
+}
+#pink{
+	color: red;
+	font-size: 60px;
+}
+#navy{
+	color: navy;
+	font-size: 25px;
+}
+
+.classY{
+	color: yellow;
+	font-size: 30px;
+}
+.classO{
+	color: orange;
+	font-size: 50px;
+}
